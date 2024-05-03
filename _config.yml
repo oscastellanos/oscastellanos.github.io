@@ -1,7 +1,7 @@
 # -------------------
 # Jekyll Config
 # --------------------
-baseurl: ""
+baseurl: "oscastellanos.github.io"
 url: ""
 permalink: pretty
 markdown: kramdown
