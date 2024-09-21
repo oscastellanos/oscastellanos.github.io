@@ -6,6 +6,6 @@ permalink: "/contact/"
 
 ## Contact Info
 
-- **Email:** <a href="mailto:example@example.com">example@example.com</a>
+- **Email:** <a href="mailto:ozzy@radlab.ai">ozzy@radlab.ai</a>
 - **Phone:** +61 0417 123 XXX
-- **Address:** Clem Jones Promenade, South Brisbane QLD 4101
+- **Address:** Austin, TX, USA 
